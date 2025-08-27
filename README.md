@@ -14,4 +14,3 @@ The final design proved that a well-optimized single-stage differential amplifie
 ### ✅ Simulation Results:
   - Voltage Gain: 39.83 dB
   - Gain-Bandwidth Product (GBW): 4.8 MHz
-  - ICMR: 0.8V to 1.6V
